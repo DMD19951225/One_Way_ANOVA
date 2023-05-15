@@ -1,0 +1,4 @@
+".y.","group1","group2","n1","n2","statistic","df","p","p.adj","p.adj.signif"
+"reaction_time","Congruent","Incongruent",25,25,11.6056127413273,24,2.49e-11,7.47e-11,"****"
+"reaction_time","Congruent","Uninformative",25,25,13.4760168481443,24,1.09e-12,3.27e-12,"****"
+"reaction_time","Incongruent","Uninformative",25,25,-5.15451733137435,24,2.81e-05,8.43e-05,"****"
